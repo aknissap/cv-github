@@ -20,7 +20,7 @@ export default {
   name: "hello",
   data() {
     return {
-      msg: "VueJS PWA consuming Github API",
+      msg: "Welcome to search Global data GitHub",
       username: "",
       user: null,
     };
